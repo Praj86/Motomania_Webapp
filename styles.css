@@ -1,0 +1,83 @@
+    style.css * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    body {
+        font-size: 120%;
+        font-size: 120%;
+        background: #F8F8FF url('bg/background\ \(3\).jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+    
+    .header {
+        width: 30%;
+        margin: 50px auto 0px;
+        color: rgba(255, 255, 255, 0.7);
+        /* Semi-transparent white text */
+        background: rgba(235, 14, 14, 0.7);
+        /* Semi-transparent background color */
+        text-align: center;
+        border: 1px solid rgba(235, 14, 14, 0.7);
+        /* Semi-transparent border color */
+        border-bottom: none;
+        border-radius: 10px 10px 0px 0px;
+        padding: 20px;
+    }
+    
+    form,
+    .content {
+        width: 30%;
+        margin: 0px auto;
+        padding: 20px;
+        border: 1px solid rgba(176, 196, 222, 0.7);
+        /* Semi-transparent border color */
+        background: rgba(255, 255, 255, 0.7);
+        /* Semi-transparent background color */
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+    .input-group input {
+        height: 30px;
+        width: 93%;
+        padding: 5px 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid rgba(128, 128, 128, 0.5);
+        /* Semi-transparent border color */
+    }
+    
+    .btn {
+        padding: 10px;
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.7);
+        /* Semi-transparent white text */
+        background: rgba(235, 14, 14, 0.7);
+        /* Semi-transparent background color */
+        border: none;
+        border-radius: 5px;
+    }
+    
+    .error {
+        width: 92%;
+        margin: 0px auto;
+        padding: 10px;
+        border: 1px solid rgba(169, 68, 66, 0.7);
+        /* Semi-transparent border color */
+        color: rgba(169, 68, 66, 0.7);
+        /* Semi-transparent text color */
+        background: rgba(242, 222, 222, 0.7);
+        /* Semi-transparent background color */
+        border-radius: 5px;
+        text-align: left;
+    }
+    
+    .success {
+        color: rgba(235, 14, 14, 0.7);
+        /* Semi-transparent text color */
+        background: rgba(223, 240, 216, 0.7);
+        /* Semi-transparent background color */
+        border: 1px solid rgba(235, 14, 14, 0.7);
+        /* Semi-transparent border color */
+        margin-bottom: 20px;
+    }
