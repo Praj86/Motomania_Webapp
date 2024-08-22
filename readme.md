@@ -63,3 +63,4 @@ This documentation provides an overview of the HTML and CSS code used to create 
 
 **7. Author**
 - This code template is provided as an example and is for educational purposes. It can be customized and enhanced to meet specific design and functionality requirements.
+inProgress
