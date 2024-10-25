@@ -46,7 +46,7 @@
             <div class="container">
                 <h2>Our Products</h2>
                 <p>Discover our top-tier range of motorcycle products, carefully chosen for riders like you: Gear & Accessories: Explore our curated selection of high-quality gear and accessories designed to enhance your ride. Parts & Upgrades: Find top-notch
-                    parts and upgrades to personalize and optimize your motorcycle. Apparel & Lifestyle: Ride in style with our trendy apparel and lifestyle products for riders. Ride with passion. Choose MotoMania.</p>
+                    parts and upgrades to personalize and optimize your motorcycles. Apparel & Lifestyle: Ride in style with our trendy apparel and lifestyle products for riders. Ride with passion. Choose MotoMania.</p>
             </div>
             <section class="section pastel">
                 <div class="thumbnail">
